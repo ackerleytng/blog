@@ -1,39 +1,39 @@
-title:            HPSTR Theme
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
-disqus_shortname: hpstrtheme
+title:            Ackerley's Blog
+description:      Useful stuff for other people who are interested in what I do!
+disqus_shortname: ackerleytng
 reading_time:     true
 words_per_minute: 200
-url:              https://mmistakes.github.io/hpstr-jekyll-theme
+url:              https://ackerleytng.github.io/blog
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Ackerley Tng
   avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
+  bio:            "Computer Engineer at heart. Interested in Computer Architecture, cooking, skating, life, singing and efficiency in general"
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
+  twitter:
   facebook:       
-  github:         mmistakes
+  github:         ackerleytng
   stackexchange:  
   linkedin:       
   instagram:        
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +MichaelRoseDesign
+  google_plus:
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-5
+google_analytics:
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Singapore
 future:      true
 highlighter: rouge
 markdown:    kramdown
