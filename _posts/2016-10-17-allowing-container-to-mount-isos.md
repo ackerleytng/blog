@@ -30,7 +30,6 @@ Create a new profile for this container and apply it
 
 ```
 $ lxc profile copy default nsmount
-$ lxc profile device add nsmount fuse unix-char path=/dev/fuse
 $ lxc profile device add nsmount loop0 unix-block path=/dev/loop0
 $ lxc profile apply mount-cd nsmount
 ```
