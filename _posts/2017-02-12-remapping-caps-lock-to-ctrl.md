@@ -17,7 +17,7 @@ There are many other ways to do this, but most of the remapping happens at a hig
 
 Usually, remapping keys using `setxkbmap` doesn't work very well with VMware Workstation. On MacOS, remapping Caps Lock to Control works even in the VMs! Pressing Caps Lock while controlling VMs sends a Ctrl keypress to the VM. In Linux, I've previously tried remapping using `setxkbmap` on Linux Mint, and that doesn't work with VMs.
 
-I've tried this on Ubuntu GNOME 16.04.2, and this has not been tested with VMware VMs, but the remapping works both in X and on the console.
+I've tried this on Ubuntu GNOME 16.04.2, and this remapping not only works in X and on the console, but also within VMs (if you press Caps Lock while the VM is in focus, the VM gets Ctrl).
 
 All of this was done on a console (not a terminal in GNOME) because X also captures the keystrokes and works with it another way.
 
