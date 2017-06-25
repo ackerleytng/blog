@@ -24,3 +24,7 @@ For a right join, it's conceptually the same as a left join, except that all the
 For an outer join, the keys in the dataframe returned will be the union of the keys of the left and right dataframes. `NaN`s are set where the data cannot be found. Keys in the output dataframe are sorted lexicographically.
 
 For an inner join, only keys that exist in both the left and right dataframes will appear in the output dataframe. Key order of the left dataframe is preserved. This is the default joining method.
+
+# Relationship between data in the dataframes and number of NaNs in the resulting dataframes
+
+![pandas-nans]({{ site.github.url }}/post_images/nans.svg)
