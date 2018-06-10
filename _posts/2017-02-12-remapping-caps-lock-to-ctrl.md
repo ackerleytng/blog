@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Remapping Caps Lock to Ctrl
 description: "Remapping Caps Lock to Ctrl"
-modified: 2017-02-12
 tags: [keyboard, remap, caps lock, ctrl, udev]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 There are many other ways to do this, but most of the remapping happens at a higher level in the stack. Remapping at udev changes key mappings at the device level, so hopefully it works consistently throughout the whole OS.
 
 Usually, remapping keys using `setxkbmap` doesn't work very well with VMware Workstation. On MacOS, remapping Caps Lock to Control works even in the VMs! Pressing Caps Lock while controlling VMs sends a Ctrl keypress to the VM. In Linux, I've previously tried remapping using `setxkbmap` on Linux Mint, and that doesn't work with VMs.

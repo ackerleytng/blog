@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Reviving the WD Passport
 description: "Reviving the WD Passport"
-modified: 2014-07-08
 tags: [Western Digital, WD, external hard disk, guides]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-share: true
 ---
-
 So. I'm not sure if this is just luck, but I managed to revive a connection to my WD Passport (Essential SE). There are so many forum threads on the Internet that discuss this topic, but most are just cliffhangers that don't provide real solutions.
 
 It was neither being recognized on a Mac nor PC, even after:

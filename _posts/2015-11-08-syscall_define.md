@@ -1,18 +1,8 @@
 ---
-layout: post
 title: SYSCALL_DEFINE
 description: "SYSCALL_DEFINE"
-modified: 2015-11-08
 tags: [linux, kernel]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 I think macros are pretty interesting... Really wanted to take some time to understand what this particular one means!
 
 For this post, I'll use Linux 4.3, the latest stable version at the point of writing.

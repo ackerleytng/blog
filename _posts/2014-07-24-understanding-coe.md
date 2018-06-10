@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Understanding COE
 description: "Understanding COE"
-modified: 2014-07-24
 tags: [coe, singapore, cars, understanding]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 # What is COE?
 
 * COE = Certificate of Entitlement

@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Starting a new project in Common Lisp
 description: "This post helps people to start a new project in Common Lisp. It also explains how to use slime together with asdf and packages."
-modified: 2015-11-22
 tags: [slime, common lisp, packages]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 Is it fair to say that there aren't that many up-to-date books for common lisp that would help a beginner who doesn't want to start with a prebuilt environment?
 
 I want to try and set up as much of my own environment as possible because

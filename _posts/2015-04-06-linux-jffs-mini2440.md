@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Putting Linux on mini2440 with jffs2 filesystem
 description: "Putting Linux on mini2440 with a jffs2 filesystem"
-modified: 2015-04-06
 tags: [mini2440 jffs jffs2 linux]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 The [previous post]({% post_url 2015-04-05-linux-mini2440 %}) showed how to put Linux on the mini2440.
 
 If you log in at the login prompt by entering the username root, you would be taken to `/root`. If you try writing to the filesystem,

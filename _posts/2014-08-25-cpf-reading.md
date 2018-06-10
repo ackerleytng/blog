@@ -1,18 +1,8 @@
 ---
-layout: post
 title: CPF Reading
 description: "CPF Reading"
-modified: 2014-08-25
 tags: [cpf, reading]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 This is a really messy set of reading notes. Might just be easier to go and re-read from the website in future.
 
 ## Definitions

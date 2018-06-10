@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Updating libimobiledevice for iOS 10 on Linux Mint 18
 description: "How to update libimobiledevice for iOS 10 on Linux Mint 18"
-modified: 2016-10-08
 tags: [libimobiledevice, iPhone, Linux Mint 18, iOS 10]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 If you connect your iPhone to Linux Mint 18 over USB after the iOS 10 update, and an empty nemo window pops up (as if your iPhone has no photos), you probably need to update `libimobiledevice`
 
 Install dependencies for `libimobiledevice`:

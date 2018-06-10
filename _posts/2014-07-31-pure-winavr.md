@@ -1,18 +1,8 @@
 ---
-layout: post
 title: A Pure WinAVR Setup
 description: "A Pure WinAVR Setup"
-modified: 2014-07-31
 tags: [winavr, arduino, atmel, atmel2560, avrispmkii, setup]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 This describes how to use WinAVR with the AVRISP mkII Programmer *without* using Atmel Studio. This has been tried on Windows 7.
 
 1. Install WinAVR from [SourceForge](http://sourceforge.net/projects/winavr/files/)

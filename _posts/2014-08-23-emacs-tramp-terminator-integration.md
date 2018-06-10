@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Emacs-Tramp-Terminator-Integration
 description: "Emacs-Tramp-Terminator-Integration"
-modified: 2014-08-23
 tags: [emacs, terminator, tramp, iterm]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 iTerm2 has a feature called [Triggers](http://iterm2.com/triggers.html) which doesn't seem to exist in any of the Linux terminal emulators.
 
 Terminator has a plugin system, so I hacked together something that would parse emacs-formatted 'urls' and open those urls in Emacs over Tramp. The concept of tying triggers with the terminal emulator is borrowed from my ECE MEng advisor, Prof. (Christopher Batten)[http://www.csl.cornell.edu/~cbatten/].
@@ -47,7 +37,7 @@ In iTerm2, the trigger can pick up the string and in turn start a coprocess with
 
 The following plugin, written for Terminator, will give you a similar effect, except you have to right click on the part between `[[[` and `]]]`, and click open link.
 
-[Download]({{ site.github.url }}/post_downloads/activate_emacs.py)
+[Download]({{ site.url }}{{ site.baseurl }}/assets/downloads/activate_emacs.py)
 
 Place that file in /usr/share/terminator/terminatorlib/plugins/activate_emacs.py and restart Terminator, then right click and click Preferences, go to the Plugins tab and check the ActivateEmacs plugin.
 

@@ -1,17 +1,7 @@
 ---
-layout: post
-title: My Mac-Emacs Setup
-description: "A clean way to setup Emacs on the Mac"
-modified: 2014-07-01
+title: "My Mac-Emacs Setup"
 tags: [emacs, mac, setup]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-share: true
 ---
-
 ## 1. Emacs distribution
 
 There are a few distributions of Emacs, and I was looking for the cleanest, most vanilla Emacs, without sacrificing convenience. I went with emacs-app from Macports.

@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Web Server Setup on my Mac
 description: "Web Server Setup on my Mac"
-modified: 2014-07-17
 tags: [web server, setup, mac]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-share: true
 ---
-
 I used MacPorts to handle all of these installations. I guess I should have tried php54 or even php55, but I was partially following instructions [here](http://dsheiko.com/weblog/my-lovely-mac-os-x-web-development-environment) and wanted to just get something working first.
 
 Here's a list of commands

@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Setting up NFS server in lxd container
 description: "Instructions to set up NFS server in lxd container"
-modified: 2016-09-06
 tags: [nfs-server, container, lxd]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 In the lxd host, suppose you have the following containers
 
 ```

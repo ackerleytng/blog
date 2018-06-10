@@ -1,18 +1,8 @@
 ---
-layout: post
 title: Buddhist Scripture
 description: "Buddhist Scripture"
-modified: 2014-09-08
 tags: [buddhism, buddhist, scripts, writing system, scripture, pali, sanskrit, languages]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 A language has way more than two parts, but let us focus on two:
 - writing system
 - spoken sounds

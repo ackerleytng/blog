@@ -1,18 +1,8 @@
 ---
-layout: post
 title: GitLab Hacking
 description: "GitLab Hacking"
-modified: 2014-10-03
 tags: [gitlab, hacking, ruby, rails]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 ## To disable minifying of the js file, comment this line out
 
     user@ubuntu:/opt/gitlab/embedded$ sudo vim ./service/gitlab-rails/config/environments/production.rb

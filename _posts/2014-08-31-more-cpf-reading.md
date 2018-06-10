@@ -1,18 +1,8 @@
 ---
-layout: post
 title: More CPF Reading
 description: "More CPF Reading"
-modified: 2014-08-31
 tags: [cpf, reading]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
-
-share: true
 ---
-
 ## Wages
 
 Wages = remuneration in money due or given to an employee in respect of his employment
